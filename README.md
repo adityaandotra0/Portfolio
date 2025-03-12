@@ -28,7 +28,11 @@ This is my **personal portfolio website**, showcasing my skills, projects, and e
 
 
 ## 📸 Screenshots  
-*(Add your project screenshots here)*  
+![Screenshot 2025-03-12 234129](https://github.com/user-attachments/assets/5a30b2a5-6139-4fec-840f-a1ae7a226ddf)
+![Screenshot 2025-03-12 234153](https://github.com/user-attachments/assets/00b842c7-0871-49d4-8658-6bb1c1dd68d6)
+![Screenshot 2025-03-12 234203](https://github.com/user-attachments/assets/de8d79dd-e0c9-4c3c-a14d-3385f1890b6e)
+![Screenshot 2025-03-12 234212](https://github.com/user-attachments/assets/7c1a3093-2ee5-4953-ae1a-ca9ae24cf399)
+
 
 ## 🚀 Installation & Setup  
 1. Clone this repository  
