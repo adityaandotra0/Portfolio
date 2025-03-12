@@ -19,7 +19,6 @@ This is my **personal portfolio website**, showcasing my skills, projects, and e
 ## 📂 Project Structure  
 📦 portfolio-website
 ┣ 📂 assets # Images & icons
-┣ 📂 components # Reusable React components
 ┣ 📂 pages # Website pages (About, Resume, Portfolio, Contact)
 ┣ 📜 styles.css # Global styles
 ┣ 📜 script.js # Interactive features
